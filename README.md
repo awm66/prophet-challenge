@@ -4,14 +4,20 @@ Module 8 Challenge
 # Functionality:
 This application examines traffic for Mercado Libre, the most popular e-commerce sit in Latin America. The search data is further combined with stock data to examine connecting patterns and the search data is ultimately used to create a time series forecasting model to predict 80 days into the future.
 
-### New York Times Reviews 
-![Screenshot](nyt_title_list.png) 
+### May 2020 Search Traffic Spike 
+![Screenshot](May2020.png) 
 
-### The Movie Database Title Matches
-![Screenshot](tmdb_title_match.png)
+### Average Search Traffic By Hour
+![Screenshot](Average_by_Hour.png)
 
-### Merged Dataframe
-![Screenshot](merged_df.png)
+### Average Search Traffic by Day of Week
+![Screenshot](Average_by_Day_of_Week.png)
+
+### Mercado Closing Stock Price
+![Screenshot](Mercado_Closing_Price.png)
+
+### Mercado Forecasting Model Components
+![Screenshot](Mercado_Model_Components.png)
 
 # Approach:
 The approach consisted of four steps.
