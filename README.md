@@ -2,9 +2,9 @@
 Module 8 Challenge
 
 # Functionality:
-This application examines traffic for Mercado Libre, the most popular e-commerce sit in Latin America. The search data is further combined with stock data to examine connecting patterns and the search data is ultimately used to create a time series forecasting model to predict 80 days into the future.
+This application examines traffic for Mercado Libre, the most popular e-commerce sit in Latin America. The search data is further combined with stock data to examine patterns and is ultimately used to create a time series forecasting model to predict 80 days into the future.
 
-### May 2020 Search Traffic Spike 
+### May 2020 Search Traffic Spike Coinciding with Release of Financial Results 
 ![Screenshot](May2020.png) 
 
 ### Average Search Traffic By Hour
