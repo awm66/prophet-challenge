@@ -36,5 +36,5 @@ The data indicated the following findings:
 6. Using the time series model, the most popular hour of the day is between 23:30 and 00:30 while Tuesday is the most popular day, and October is the least popular month.
 
 # Plagerism Statement:
-No specific code was copied but the sources below were referenced for examples and syntax. In addition, this challenge required a small amount of collaboration with the teaching assistant to understand assignment wording.
+No specific code was copied. In addition, this challenge required a small amount of collaboration with the teaching assistant to understand assignment wording.
 
